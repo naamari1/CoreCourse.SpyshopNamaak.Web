@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCourse.SpyshopNamaak.Web", "CoreCourse.SpyshopNamaak.Web\CoreCourse.SpyshopNamaak.Web.csproj", "{E4A3B137-FA98-4FE6-8FB7-0F55B1B6CD31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreCourse.Spyshop.Domain", "CoreCourse.Spyshop.Domain\CoreCourse.Spyshop.Domain.csproj", "{1AB7C4AE-AC80-4433-8AAA-11E309E23BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4A3B137-FA98-4FE6-8FB7-0F55B1B6CD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A3B137-FA98-4FE6-8FB7-0F55B1B6CD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A3B137-FA98-4FE6-8FB7-0F55B1B6CD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A3B137-FA98-4FE6-8FB7-0F55B1B6CD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB7C4AE-AC80-4433-8AAA-11E309E23BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB7C4AE-AC80-4433-8AAA-11E309E23BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB7C4AE-AC80-4433-8AAA-11E309E23BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB7C4AE-AC80-4433-8AAA-11E309E23BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452C53BD-9D68-4626-BFE9-D648A2BA45E7}
+	EndGlobalSection
+EndGlobal
